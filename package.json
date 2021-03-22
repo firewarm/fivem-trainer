@@ -1,0 +1,25 @@
+{
+  "name": "fivem-trainer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firewarm/fivem-trainer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firewarm/fivem-trainer/issues"
+  },
+  "homepage": "https://github.com/firewarm/fivem-trainer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "memoryjs": "^3.4.0",
+    "nodemon": "^2.0.7",
+    "socket.io": "^4.0.0"
+  }
+}
